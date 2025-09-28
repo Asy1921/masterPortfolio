@@ -158,7 +158,15 @@ class Experience extends Component {
 									src={require(`../../assets/images/${experience["header_image_path"]}`)}
 									alt=""
 								/> */}
-                <ExperienceImg theme={theme} />
+                <img
+                  src={require("../../assets/images_home/therapy.jpeg")}
+                  alt="Therapy"
+                  style={{
+                    width: "100%",
+                    maxWidth: "400px",
+                    borderRadius: "10px",
+                  }}
+                />
               </div>
               <div className="experience-heading-text-div">
                 <h1

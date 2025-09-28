@@ -31,9 +31,9 @@
 }
 
 .greeting-text {
-  margin-top: 80px;
+  /* margin-top: 80px; */
   font-size: 70px;
-  line-height: 1.1;
+  /* line-height: 1.1; */
   font-family: "Google Sans Bold";
 }
 
@@ -53,6 +53,8 @@
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
+  margin-top: 20px;
+
 }
 
 /* Media Query */

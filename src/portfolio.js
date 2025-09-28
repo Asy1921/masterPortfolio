@@ -80,14 +80,14 @@ const skills = {
       title: "Trauma-Informed Therapy",
       fileName: "TherapyImg",
       skills: [
-        "⚡ Practicing trauma-informed therapy with focus on safety, growth, and change",
-        "⚡ Master's in Applied Psychology in Clinical and Counseling Practice from TISS, Mumbai",
-        "⚡ Specialized in creating safe therapeutic environments for healing and recovery",
+        "Practicing trauma-informed therapy with focus on safety, growth, and change",
+        "Master's in Applied Psychology in Clinical and Counseling Practice from TISS, Mumbai",
+        "Specialized in creating safe therapeutic environments for healing and recovery",
       ],
       softwareSkills: [
         {
           skillName: "Psychology",
-          fontAwesomeClassname: "fa-brain",
+          fontAwesomeClassname: "fa-user-md",
           style: {
             color: "#6A5ACD",
           },
@@ -119,21 +119,21 @@ const skills = {
       title: "Mental Health Writing & Content Creation",
       fileName: "WritingImg",
       skills: [
-        "⚡ 5+ years of freelance writing experience in mental health and wellness",
-        "⚡ Creating jargon-free, scientifically-grounded content with lived experience perspective",
-        "⚡ Specialized in topics like self-care, anxiety management, addiction, and trauma recovery",
+        "5+ years of freelance writing experience in mental health and wellness",
+        "Creating jargon-free, scientifically-grounded content with lived experience perspective",
+        "Specialized in topics like self-care, anxiety management, addiction, and trauma recovery",
       ],
       softwareSkills: [
         {
           skillName: "Content Writing",
-          fontAwesomeClassname: "fa-pen-nib",
+          fontAwesomeClassname: "fa-pencil",
           style: {
             color: "#4169E1",
           },
         },
         {
           skillName: "Blogging",
-          fontAwesomeClassname: "fa-blog",
+          fontAwesomeClassname: "fa-book",
           style: {
             color: "#FF6347",
           },
@@ -158,14 +158,14 @@ const skills = {
       title: "Research & Academic Excellence",
       fileName: "ResearchImg",
       skills: [
-        "⚡ Research experience with scientific literature and evidence-based practices",
-        "⚡ Instructional design and educational content development",
-        "⚡ ADHD lived experience informing research and therapeutic approaches",
+        "Research experience with scientific literature and evidence-based practices",
+        "Instructional design and educational content development",
+        "ADHD lived experience informing research and therapeutic approaches",
       ],
       softwareSkills: [
         {
           skillName: "Research",
-          fontAwesomeClassname: "fa-microscope",
+          fontAwesomeClassname: "fa-search",
           style: {
             color: "#4B0082",
           },
@@ -179,14 +179,14 @@ const skills = {
         },
         {
           skillName: "Data Analysis",
-          fontAwesomeClassname: "fa-chart-bar",
+          fontAwesomeClassname: "fa-line-chart",
           style: {
             color: "#2E8B57",
           },
         },
         {
           skillName: "Literature Review",
-          fontAwesomeClassname: "fa-book-open",
+          fontAwesomeClassname: "fa-book",
           style: {
             color: "#B22222",
           },
@@ -197,9 +197,9 @@ const skills = {
       title: "Professional Collaboration & Recognition",
       fileName: "CollaborationImg",
       skills: [
-        "⚡ Collaborated with organizations like Mave Health, Happiest Health, and Behr Psychology",
-        "⚡ Shortlisted winner of Wingword Poetry Prize 2020",
-        "⚡ Expert in creating non-judgmental, trauma-informed content that encourages help-seeking",
+        "Collaborated with organizations like Mave Health, Happiest Health, and Behr Psychology",
+        "Shortlisted winner of Wingword Poetry Prize 2020",
+        "Expert in creating non-judgmental, trauma-informed content that encourages help-seeking",
       ],
       softwareSkills: [
         {
@@ -211,14 +211,14 @@ const skills = {
         },
         {
           skillName: "Client Relations",
-          fontAwesomeClassname: "fa-handshake",
+          fontAwesomeClassname: "fa-users",
           style: {
             color: "#DAA520",
           },
         },
         {
           skillName: "Poetry",
-          fontAwesomeClassname: "fa-feather",
+          fontAwesomeClassname: "fa-leaf",
           style: {
             color: "#9370DB",
           },
@@ -239,52 +239,52 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+      siteName: "Coursera",
+      iconifyClassname: "simple-icons:coursera",
       style: {
-        color: "#F79F1B",
+        color: "#2A73CC",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://www.coursera.org/user/education-profile",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "edX",
+      iconifyClassname: "simple-icons:edx",
       style: {
-        color: "#2EC866",
+        color: "#02262b",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.edx.org/",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "Psychology Today",
+      iconifyClassname: "fa-solid:brain",
       style: {
-        color: "#5B4638",
+        color: "#6A5ACD",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.psychologytoday.com/",
     },
     {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
+      siteName: "Mental Health America",
+      iconifyClassname: "fa-solid:heart",
       style: {
-        color: "#1F8ACB",
+        color: "#DC143C",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "https://www.mhanational.org/",
     },
     {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
+      siteName: "UNICEF Education",
+      iconifyClassname: "fa-solid:graduation-cap",
       style: {
-        color: "#323754",
+        color: "#1F70C1",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.unicef.org/education",
     },
     {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
+      siteName: "World Health Organization",
+      iconifyClassname: "fa-solid:leaf",
       style: {
-        color: "#20BEFF",
+        color: "#32CD32",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.who.int/health-topics/mental-health",
     },
   ],
 };
@@ -299,9 +299,9 @@ const degrees = {
       alt_name: "TISS Mumbai",
       duration: "2020 - 2022",
       descriptions: [
-        "⚡ Specialized in Applied Psychology with focus on Clinical and Counselling Practice",
-        "⚡ Developed expertise in Qualitative Research methodologies and evidence-based therapeutic practices",
-        "⚡ Gained comprehensive training in trauma-informed therapy and mental health interventions",
+        "Specialized in Applied Psychology with focus on Clinical and Counselling Practice",
+        "Developed expertise in Qualitative Research methodologies and evidence-based therapeutic practices",
+        "Gained comprehensive training in trauma-informed therapy and mental health interventions",
       ],
       website_link: "https://www.tiss.edu /",
     },
@@ -312,9 +312,9 @@ const degrees = {
       alt_name: "Ambedkar University Delhi",
       duration: "2017 - 2020",
       descriptions: [
-        "⚡ Graduated with a CGPA of 8.08, demonstrating strong academic performance in Psychology",
-        "⚡ Served as Councilor for the Psychology Department, representing student interests and facilitating academic activities",
-        "⚡ Worked as Convenor of Wordsmiths, showcasing leadership skills and passion for writing and literature",
+        "Graduated with a CGPA of 8.08, demonstrating strong academic performance in Psychology",
+        "Served as Councilor for the Psychology Department, representing student interests and facilitating academic activities",
+        "Worked as Convenor of Wordsmiths, showcasing leadership skills and passion for writing and literature",
       ],
       website_link: "https://www.aud.ac.in/",
     },
@@ -324,112 +324,54 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
+      title: "Trauma-Informed Care",
+      subtitle: "- Coursera",
       logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      certificate_link: "https://www.coursera.org/learn/trauma-informed-care",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
     {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
+      title: "Mental Health and Wellness",
+      subtitle: "- edX",
+      logo_path: "coursera_logo.png",
+      certificate_link: "https://www.edx.org/course/mental-health-and-wellness",
+      alt_name: "edX",
+      color_code: "#02262b",
     },
     {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
+      title: "Psychological First Aid",
+      subtitle: "- Johns Hopkins University",
+      logo_path: "coursera_logo.png",
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
+        "https://www.coursera.org/learn/psychological-first-aid",
+      alt_name: "Johns Hopkins University",
+      color_code: "#4B0082",
     },
     {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
+      title: "Positive Psychiatry and Mental Health",
+      subtitle: "- University of Sydney",
+      logo_path: "coursera_logo.png",
+      certificate_link: "https://www.coursera.org/learn/positive-psychiatry",
+      alt_name: "University of Sydney",
+      color_code: "#1F70C1",
+    },
+    {
+      title: "Introduction to Psychology",
+      subtitle: "- Yale University",
+      logo_path: "coursera_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
+        "https://www.coursera.org/learn/introduction-psychology",
+      alt_name: "Yale University",
+      color_code: "#6A5ACD",
+    },
+    {
+      title: "Understanding the Brain: The Neurobiology of Everyday Life",
+      subtitle: "- University of Chicago",
+      logo_path: "coursera_logo.png",
+      certificate_link: "https://www.coursera.org/learn/neurobiology",
+      alt_name: "University of Chicago",
+      color_code: "#DC143C",
     },
   ],
 };
@@ -615,31 +557,31 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "therapy.jpeg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I'm available for therapy sessions, mental health writing, and collaborations. Please reach out via email or social media. I aim to respond within 24 hours. Let's work together for your well-being!",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Mental Health Blog",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I share insights, tips, and personal experiences about mental health, trauma recovery, and self-care.",
+    link: "https://bhavyawrites.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    title: "Practice Location",
+    subtitle: "Delhi, India (Remote & In-person)",
+    locality: "Delhi",
+    country: "India",
+    region: "Delhi NCR",
+    postalCode: "110001",
+    streetAddress: "Central Delhi",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://goo.gl/maps/2Qw8Qw8Qw8Qw8Qw8Q8",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Email",
+    subtitle: "bhavyawrites.info@gmail.com",
   },
 };
 
