@@ -7,6 +7,11 @@ import "./Error.css";
 import { Link } from "react-router-dom";
 
 export default class Error extends Component {
+  componentDidMount() {
+    setTimeout(() => {
+      window.location.replace("/home");
+    }, 2000); // Redirect after 2 seconds
+  }
   render() {
     const theme = this.props.theme;
     return (
@@ -16,7 +21,11 @@ export default class Error extends Component {
           <Fade bottom duration={2000} distance="40px">
             <h1>Woops</h1>
             <h1 className="error-404">404</h1>
-            <p>The requested page is unavailable at the moment!</p>
+            <p>
+              The requested page is unavailable at the moment!
+              <br />
+              Redirecting to home...
+            </p>
             <Link
               className="main-button"
               to="/home"
